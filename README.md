@@ -20,8 +20,8 @@ Save the Clean data to the file
 
 # CODE
 ```
-NAME:DIVYA.K
-REGISTER NO:21222230035
+NAME:DINESH.S
+REGISTER NO:212222230033
 ```
 ```
 import pandas as pd
